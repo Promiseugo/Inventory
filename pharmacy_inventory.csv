@@ -1,0 +1,6 @@
+id,name,quantity,price,category,last_updated
+1001,Aspirin,45,5.99,Pain Relief,2025-08-21
+1002,Amoxicillin,8,12.50,Antibiotic,2025-08-21
+1003,Lipitor,22,15.75,Cholesterol,2025-08-21
+1004,Ventolin,5,23.40,Asthma,2025-08-21
+1005,Metformin,34,8.99,Diabetes,2025-08-21
